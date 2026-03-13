@@ -11,6 +11,9 @@ dependencies = [
     "marimo>=0.12.10",
     "matplotlib>=3.9.4",
     "numpy>=2.0.2",
+    "fastapi>=0.100.0",
+    "uvicorn>=0.23.0",
+    "pydantic>=2.0.0",
 ]
 keywords = [
     "civil-engineering",
